@@ -1,9 +1,9 @@
-# Author
-![@Rafase282](https://avatars0.githubusercontent.com/Rafase282?&s=128)
+## Contact me
+**Gilbert Joseph Smith III**
 
-Submitted by Rafase282
+![@gjsmith3rd](https://avatars0.githubusercontent.com/gjsmith3rd?&s=128)
 
-[Github](https://github.com/Rafase282) | [FreeCodeCamp](http://www.freecodecamp.com/rafase282) |  [CodePen](http://codepen.io/Rafase282/) | [LinkedIn](https://www.linkedin.com/in/rafase282) | [Blog/Site](https://rafase282.wordpress.com/) | [My Original Wiki](http://rafase282.github.io/My-FreeCodeCamp-Code/)
+[Github](https://github.com/gjsmith3rd) | [FreeCodeCamp](http://www.freecodecamp.com/gjsmith3rd) |  [CodePen](http://codepen.io/gjsmith3rd/) | [LinkedIn](https://www.linkedin.com/in/gjsmith3rd) | [Blog/Site](https://gjsmith3rd.github.io/) | [E-Mail](mailto:contact@mobileCreature.com)
 
 # Details
 - Difficulty: 2/5

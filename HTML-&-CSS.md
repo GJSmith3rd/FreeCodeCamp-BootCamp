@@ -1,9 +1,9 @@
-# Author
+## Contact me
+**Gilbert Joseph Smith III**
+
 ![@gjsmith3rd](https://avatars0.githubusercontent.com/gjsmith3rd?&s=128)
 
-Submitted by gjsmith3rd
-
-[Github](https://github.com/gjsmith3rd) | [FreeCodeCamp](http://www.freecodecamp.com/gjsmith3rd) | [CodePen](http://codepen.io/gjsmith3rd/) | [LinkedIn](https://www.linkedin.com/in/gjsmith3rd) | [Blog/Site](https://gjsmith3rd.wordpress.com/) | [E-Mail](mailto:contact@mobileCreature.com)
+[Github](https://github.com/gjsmith3rd) | [FreeCodeCamp](http://www.freecodecamp.com/gjsmith3rd) |  [CodePen](http://codepen.io/gjsmith3rd/) | [LinkedIn](https://www.linkedin.com/in/gjsmith3rd) | [Blog/Site](https://gjsmith3rd.github.io/) | [E-Mail](mailto:contact@mobileCreature.com)
 
 ## Say Hello to HTML Elements
 HTML elements are written with a start tag, with an end tag, with the content in between:

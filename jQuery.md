@@ -1,9 +1,9 @@
-# Author
-![@Rafase282](https://avatars0.githubusercontent.com/Rafase282?&s=128)
+## Contact me
+**Gilbert Joseph Smith III**
 
-Submitted by Rafase282
+![@gjsmith3rd](https://avatars0.githubusercontent.com/gjsmith3rd?&s=128)
 
-[Github](https://github.com/Rafase282) | [FreeCodeCamp](http://www.freecodecamp.com/rafase282) | [CodePen](http://codepen.io/Rafase282/) | [LinkedIn](https://www.linkedin.com/in/rafase282) | [Blog/Site](https://rafase282.wordpress.com/) | [E-Mail](mailto:rafase282@gmail.com)
+[Github](https://github.com/gjsmith3rd) | [FreeCodeCamp](http://www.freecodecamp.com/gjsmith3rd) |  [CodePen](http://codepen.io/gjsmith3rd/) | [LinkedIn](https://www.linkedin.com/in/gjsmith3rd) | [Blog/Site](https://gjsmith3rd.github.io/) | [E-Mail](mailto:contact@mobileCreature.com)
 
 ## Learn how Script Tags and Document Ready Work
 For some reason FCC likes to introduce `jQuery` before JavaScript itself.
@@ -21,7 +21,7 @@ Inside your script element, add this code: `$(document).ready(function() {` to y
 ## Target HTML Elements with Selectors Using jQuery
 After we have created our `document ready function` we can now have code that will run after the page loads. This will assure that your code does not run before the HTML is rendered to avoid bugs.
 
-jQuery often selects an HTML element with a selector, then does something to that element.  
+jQuery often selects an HTML element with a selector, then does something to that element.
 
 The following code will make the buttons have a bouncy animation on page load.
 
