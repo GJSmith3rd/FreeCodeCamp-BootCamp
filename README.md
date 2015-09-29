@@ -1,5 +1,3 @@
-#TEST
-
 # My Work From FreeCodeCamp
 This repository is not for an app but more as a journal where I keep a record of everything I have done and learned from FreeCodeCamp. I decided to use a wiki as I can put more information easily on it. You will find my code there and also on the right directories if you just want to see the code.
 
