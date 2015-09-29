@@ -14,6 +14,7 @@ If you find this useful then follow and start it, feel free to share it also.
 
 ## Links
 - The [Wiki](https://github.com/GJSmith3rd/FreeCodeCamp-Wiki)
+This wiki is currently under active edit and is only complete up to the Wiki Status.  The remaining portions will be updated as progress continues.  Subsequenlty, many portions are not correct or functional at this time.
 
 ## Code Status:
 I'm currently working on FCC Zipline 2 **Random Quote Machine**
@@ -28,7 +29,11 @@ Completed:
 4. Basic JavaScript
 5. Object Oriented and Functional Programming
 6. Basic Algorithm Scripting
+
+In Progress:
 7. Basic Front End Development Projects
+
+To Do:
 8. Intermediate Algorithm Scripting
 9. Upper Intermediate Algorithm Scripting
 10. Automated Testing and Debugging
