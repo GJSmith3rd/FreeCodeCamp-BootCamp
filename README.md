@@ -41,7 +41,7 @@ To Do:
 11. Advanced Algorithm Scripting
 
 ## HTML5 and CSS
-1. [Waypoint: Say Hello to HTML Elements](https://github.com/gjsmith3rd/My-FreeCodeCamp-Code/wiki/HTML-&-CSS#say-hello-to-html-elements)
+1. [Waypoint: Say Hello to HTML Elements](hhttps://github.com/gjsmith3rd/My-FreeCodeCamp-Code/wiki/HTML-&-CSS#say-hello-to-html-elements)
 2. [Waypoint: Headline with the h2 Element](https://github.com/gjsmith3rd/My-FreeCodeCamp-Code/wiki/HTML-&-CSS#headline-with-the-h2-element)
 3. [Waypoint: Inform with the Paragraph Element](https://github.com/gjsmith3rd/My-FreeCodeCamp-Code/wiki/HTML-&-CSS#inform-with-the-paragraph-element)
 4. [Waypoint: Uncomment HTML](https://github.com/gjsmith3rd/My-FreeCodeCamp-Code/wiki/HTML-&-CSS#uncomment-html)
