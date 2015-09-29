@@ -14,7 +14,7 @@ If you find this useful then follow and start it, feel free to share it also.
 
 ## Links
 - The [Wiki](https://github.com/GJSmith3rd/FreeCodeCamp-Wiki)
-- The Project [page](http://rafase282.github.io/My-FreeCodeCamp-Code) Feel free to share it.
+/*- The Project [page](http://rafase282.github.io/My-FreeCodeCamp-Code) Feel free to share it.*/
 
 ## Code Status:
 All coded has been done up to the **AngularJS**
