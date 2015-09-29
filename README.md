@@ -18,10 +18,10 @@ If you find this useful then follow and start it, feel free to share it also.
 This wiki is currently under active edit and is only complete up to the Wiki Status.  The remaining portions will be updated as progress continues.  Subsequenlty, many portions are not correct or functional at this time.
 
 ## Code Status:
-I'm currently working on FCC Zipline 2 **Random Quote Machine**
+I'm currently working on Basic Front End Development Projects Zipline 2 **Random Quote Machine**
 
 ## Wiki Status:
-Completed up to FCC Zipline 1 **Zipline: Personal Portfolio Webpage**.
+Completed up to FCC Basic Front End Development Projects Zipline 1 **Zipline: Personal Portfolio Webpage**.
 
 Completed:
 1. HTML5 and CSS
