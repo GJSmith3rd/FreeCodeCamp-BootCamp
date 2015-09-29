@@ -15,7 +15,7 @@ If you find this useful then follow and start it, feel free to share it also.
 [Github](https://github.com/GJSmith3rd) | [FreeCodeCamp](http://www.freecodecamp.com/GJSmith3rd) |  [CodePen](http://codepen.io/GJSmith3rd/) | [LinkedIn](https://www.linkedin.com/in/GJSmith3rd) | [Blog/Site](gjsmith3rd.github.io) | [E-Mail](mailto:contact@mobileCreature.com)
 
 ## Links
-- The [Wiki](https://github.com/GJSmith3rd/FreeCodeCamp-Wiki).
+- The [Wiki](https://github.com/GJSmith3rd/FreeCodeCamp-Wiki/wiki).
 
 This wiki is currently under active edit and is only complete up to the Wiki Status.  The remaining portions will be updated as progress continues.  Subsequenlty, many portions are not correct or functional at this time.
 
