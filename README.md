@@ -16,10 +16,10 @@ If you find this useful then follow and start it, feel free to share it also.
 - The [Wiki](https://github.com/GJSmith3rd/FreeCodeCamp-Wiki)
 
 ## Code Status:
-All coded has been done up to the **AngularJS**
+I'm currently working on FCC Zipline 2 **Random Quote Machine**
 
 ## Wiki Status:
-I'm currently working on the **Waypoint: Get Started with Angular.js**.
+Completed up to FCC Zipline 1 **Zipline: Personal Portfolio Webpage**.
 
 Completed:
 1. HTML5 and CSS
