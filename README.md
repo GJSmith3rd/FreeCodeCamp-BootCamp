@@ -1,9 +1,5 @@
-# My Work From FreeCodeCamp
-This repository is not for an app but more as a journal where I keep a record of everything I have done and learned from FreeCodeCamp. I decided to use a wiki as I can put more information easily on it. You will find my code there and also on the right directories if you just want to see the code.
-
-I will try to keep everything updated. If you are also part of the camp or would like to contribute in any way then feel free to contact me. The purpose of this is for reference and learning material overall, for everyone as it is public.
-
-If you find this useful then follow and start it, feel free to share it also.
+## FreeCodeCamp Journey
+This repository is not an app or code for a specific project but a public wiki of my journey while studying Front-End and Full Stack Web Development at FreeCodeCamp. Here you will find the most of challenges and code used. The wiki is not a tutorial or step by step lesson but more of a general record of the tasks and code used.
 
 ## Contact me
 **Gilbert Joseph Smith III**
@@ -13,7 +9,7 @@ If you find this useful then follow and start it, feel free to share it also.
 [Github](https://github.com/GJSmith3rd) | [FreeCodeCamp](http://www.freecodecamp.com/GJSmith3rd) |  [CodePen](http://codepen.io/GJSmith3rd/) | [LinkedIn](https://www.linkedin.com/in/GJSmith3rd) | [Blog/Site](gjsmith3rd.github.io) | [E-Mail](mailto:contact@mobileCreature.com)
 
 ## Links
-- The [Wiki](https://github.com/GJSmith3rd/FreeCodeCamp-Wiki/wiki).
+- The [WIKI](https://github.com/GJSmith3rd/FreeCodeCamp-Wiki/wiki).
 
 This wiki is currently under active edit and is only complete up to the Wiki Status.  The remaining portions will be updated as progress continues.  Subsequenlty, many portions are not correct or functional at this time.
 
