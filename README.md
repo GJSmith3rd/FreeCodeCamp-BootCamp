@@ -35,3 +35,6 @@ Completed up to FCC Basic Front End Development Projects Zipline 1: **Personal P
 9. Upper Intermediate Algorithm Scripting
 10. Automated Testing and Debugging
 11. Advanced Algorithm Scripting
+
+## Original Fork
+This Wiki was originally forked from [Rafase282 WIKI](https://github.com/Rafase282/My-FreeCodeCamp-Code) which provides a more detailed and instructive version.
