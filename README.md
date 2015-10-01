@@ -14,12 +14,12 @@ This repository is not an app or code for a specific project but a public wiki o
 This wiki is currently under active edit and is only complete up to the Wiki Status.  The remaining portions will be updated as progress continues.  Subsequenlty, many portions are not correct or functional at this time.
 
 ## Code Status:
-I'm currently working on Basic Front End Development Projects Zipline 2 **Random Quote Machine**
+I'm currently working on Basic Front End Development Projects Zipline 2: **Random Quote Machine**.
 
 ## Wiki Status:
-Completed up to FCC Basic Front End Development Projects Zipline 1 **Zipline: Personal Portfolio Webpage**.
+Completed up to FCC Basic Front End Development Projects Zipline 1: **Personal Portfolio Webpage**.
 
-Completed:
+**Completed:**
 1. HTML5 and CSS
 2. Responsive Design with Bootstrap
 3. jQuery
@@ -27,10 +27,10 @@ Completed:
 5. Object Oriented and Functional Programming
 6. Basic Algorithm Scripting
 
-In Progress:
+**In Progress:**
 7. Basic Front End Development Projects
 
-To Do:
+**To Do:**
 8. Intermediate Algorithm Scripting
 9. Upper Intermediate Algorithm Scripting
 10. Automated Testing and Debugging
